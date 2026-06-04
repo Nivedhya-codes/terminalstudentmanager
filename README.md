@@ -1,8 +1,8 @@
-# Smart Student Manager
+# Terminal Student Manager
 
 ## Overview
 
-Smart Student Manager is a Python-based console application that helps manage student academic records. The program allows users to add students, store their marks, view subject-wise marks, and generate detailed report cards.
+Terminal Student Manager is a Python-based console application that helps manage student academic records. The program allows users to add students, store their marks, view subject-wise marks, and generate detailed report cards.
 
 The project demonstrates important Object-Oriented Programming (OOP) concepts such as inheritance, abstraction, decorators, and file handling.
 
@@ -34,7 +34,7 @@ The project demonstrates important Object-Oriented Programming (OOP) concepts su
 ## Project Structure
 
 ```text
-SmartStudentManager/
+TerminalStudentManager/
 │
 ├── main.py
 ├── student.py
