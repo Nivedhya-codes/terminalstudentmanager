@@ -18,8 +18,9 @@ class User:
             return False
 
     
-    def save_user():
-        with open("Users.txt" ,'r') as f:
+    def save_user(self):
+        
+        with open("Users.txt" ,'a') as f:
             f.write(f"{self.username},{self.password}\n")
             
     
@@ -55,15 +56,30 @@ class User:
                 print("Password accepted.")
                 break
 
-            if self.username_exists():
 
-                print("Username already exists.")
-            else:
-               save_user()
-               print("Registration successful.")
+        self.save_user()
+        print("Registration successful.")
 
+    def login(self):
+        print("\n=== User Login ===")
+
+        self.username = input("Username: ")
+        self.password = input("Password: ")
+
+        try:
+            with open("Users.txt", "r") as f:
+                for line in f:
+                    file_username, file_password = line.strip().split(",", 1)
+
+                    if file_username == self.username and file_password == self.password:
+                        print("Login successful.")
+                        return True
+
+            print("Invalid username or password.")
+            return False
+
+        except FileNotFoundError:
+            print("No users found. Please register first.")
+            return False
+    
             
-
-user = User()
-user.register()
-
