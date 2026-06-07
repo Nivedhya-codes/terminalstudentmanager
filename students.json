@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Aarav",
+    "roll_no": "1001",
+    "physics": 85,
+    "maths": 78,
+    "chemistry": 91,
+    "computer": 88,
+    "english": 80
+  },
+  {
+    "name": "Ishaan",
+    "roll_no": "1002",
+    "physics": 72,
+    "maths": 69,
+    "chemistry": 75,
+    "computer": 90,
+    "english": 68
+  },
+  {
+    "name": "Vihaan",
+    "roll_no": "1003",
+    "physics": 95,
+    "maths": 92,
+    "chemistry": 89,
+    "computer": 94,
+    "english": 90
+  },
+  {
+    "name": "Aditya",
+    "roll_no": "1004",
+    "physics": 60,
+    "maths": 58,
+    "chemistry": 65,
+    "computer": 70,
+    "english": 62
+  },
+  {
+    "name": "Arjun",
+    "roll_no": "1005",
+    "physics": 88,
+    "maths": 84,
+    "chemistry": 82,
+    "computer": 91,
+    "english": 86
+  },
+  {
+    "name": "Rohan",
+    "roll_no": "1006",
+    "physics": 77,
+    "maths": 73,
+    "chemistry": 70,
+    "computer": 85,
+    "english": 75
+  },
+  {
+    "name": "Kabir",
+    "roll_no": "1007",
+    "physics": 66,
+    "maths": 60,
+    "chemistry": 64,
+    "computer": 72,
+    "english": 68
+  },
+  {
+    "name": "Yash",
+    "roll_no": "1008",
+    "physics": 90,
+    "maths": 88,
+    "chemistry": 85,
+    "computer": 92,
+    "english": 87
+  },
+  {
+    "name": "Samar",
+    "roll_no": "1009",
+    "physics": 55,
+    "maths": 50,
+    "chemistry": 58,
+    "computer": 65,
+    "english": 60
+  },
+  {
+    "name": "Om",
+    "roll_no": "1010",
+    "physics": 80,
+    "maths": 76,
+    "chemistry": 78,
+    "computer": 82,
+    "english": 79
+  },
+  {
+    "name": "Ayaan",
+    "roll_no": "1011",
+    "physics": 91,
+    "maths": 89,
+    "chemistry": 93,
+    "computer": 95,
+    "english": 90
+  },
+  {
+    "name": "Reyansh",
+    "roll_no": "1012",
+    "physics": 74,
+    "maths": 70,
+    "chemistry": 72,
+    "computer": 78,
+    "english": 71
+  },
+  {
+    "name": "Dev",
+    "roll_no": "1013",
+    "physics": 68,
+    "maths": 65,
+    "chemistry": 70,
+    "computer": 75,
+    "english": 69
+  },
+  {
+    "name": "Parth",
+    "roll_no": "1014",
+    "physics": 83,
+    "maths": 81,
+    "chemistry": 79,
+    "computer": 85,
+    "english": 80
+  },
+  {
+    "name": "Krish",
+    "roll_no": "1015",
+    "physics": 96,
+    "maths": 94,
+    "chemistry": 92,
+    "computer": 97,
+    "english": 95
+  },
+  {
+    "name": "Shiv",
+    "roll_no": "1016",
+    "physics": 62,
+    "maths": 64,
+    "chemistry": 60,
+    "computer": 70,
+    "english": 66
+  },
+  {
+    "name": "Kunal",
+    "roll_no": "1017",
+    "physics": 78,
+    "maths": 75,
+    "chemistry": 80,
+    "computer": 82,
+    "english": 77
+  },
+  {
+    "name": "Lakshay",
+    "roll_no": "1018",
+    "physics": 85,
+    "maths": 87,
+    "chemistry": 83,
+    "computer": 88,
+    "english": 86
+  },
+  {
+    "name": "Manav",
+    "roll_no": "1019",
+    "physics": 69,
+    "maths": 72,
+    "chemistry": 68,
+    "computer": 74,
+    "english": 70
+  },
+  {
+    "name": "Nirav",
+    "roll_no": "1020",
+    "physics": 88,
+    "maths": 90,
+    "chemistry": 86,
+    "computer": 92,
+    "english": 89
+  }
+]
