@@ -1,4 +1,4 @@
-# 🎓 Smart Student Manager
+# 🎓 Terminal Student Manager
 
 A console-based Student Management System built with Python using Object-Oriented Programming (OOP) principles and JSON file storage.
 
